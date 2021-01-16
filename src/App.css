@@ -3,3 +3,11 @@
     margin: 0 auto;
     text-align: center;
 }
+
+.pics {
+    display: inline-block;
+}
+
+img {
+    width: 150px;
+}
